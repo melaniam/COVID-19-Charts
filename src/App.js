@@ -10,7 +10,7 @@ export default function App() {
       <h2>First 60 countries sorted by confirmed cases, in descending order</h2>
       <p>
         <a
-          href="https://codesandbox.io/s/covid-19-data-chart-c3ewv"
+          href="https://github.com/melaniam/COVID-19-Charts"
           target="_blank"
           rel="noopener noreferrer"
           title="Link to Code"
